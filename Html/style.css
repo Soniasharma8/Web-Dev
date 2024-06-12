@@ -1,0 +1,17 @@
+h1 {
+    color: darkgreen;
+}
+
+p{
+    color: lightcoral;
+}
+
+button{
+    color: rgb(241, 13, 24);
+    background-color: blanchedalmond;
+}
+
+body {
+    background-color: rgba(65, 47, 47, 0.25);
+}
+
