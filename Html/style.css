@@ -1,17 +1,11 @@
+p {
+    text-align : center;
+}
+
 h1 {
-    color: darkgreen;
+    text-align: center ;
+    text-decoration: line-through;
 }
-
-p{
-    color: lightcoral;
+a{
+    text-decoration: none;
 }
-
-button{
-    color: rgb(241, 13, 24);
-    background-color: blanchedalmond;
-}
-
-body {
-    background-color: rgba(65, 47, 47, 0.25);
-}
-
