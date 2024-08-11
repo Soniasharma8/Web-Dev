@@ -18,6 +18,7 @@
     height: 50px;
     width: 100px;
 }
+
 .logo {
     background-image: url(images/Amazon\ logo.png);
     background-size: cover;
@@ -169,6 +170,7 @@ span {
     background-color: pink;
     background-color:#F0F8FF;
 }
+
 .box {
     /* border: 2px solid black; */
     height: 400px;
@@ -184,6 +186,7 @@ span {
 margin-top: 1rem;
 margin-bottom: 1rem;
 }
+
 .box-content {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -243,6 +246,22 @@ ul a {
     height: 50px;
     width: 100px;
 }
+
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages {
+        padding-top: 25px;
+}
+
+.copyright {
+    padding-top: 5px;
+}  
 
 
 
