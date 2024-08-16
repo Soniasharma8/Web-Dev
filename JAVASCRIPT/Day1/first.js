@@ -3,7 +3,17 @@
 // console.log("Welcome! Welcome!")
 
 fullName = "Sonia Sharma";
-console.log("fullName");
-
 age = 24;
-console.log("age");
+price = 99.99;
+radius = 14;
+a = null;
+y = undefined;
+isFollow = true;
+
+fullName = 25;
+
+console.log(fullName);
+
+
+
+
